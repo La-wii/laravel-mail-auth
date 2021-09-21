@@ -11,6 +11,9 @@
                 <h5 class="card-title"> {{ $post->slug }}</h5>
                 <p class="card-text"> {{ $post->content }}</p>
             </div>
+            <div class="card-body">
+            <img src="{{asset('storage/' .$post->cover) }}" class="card-img-top" style="width:300px; height:300px" alt="{{ $post->title }}">
+            </div>
         </div>
         <div class="mt-3">
             <a href="{{ route('admin.posts.index') }} " class="btn btn-primary">Torna indietro</a>

@@ -54372,8 +54372,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /Users/apple/Documents/mamp_public/php-laravel-odd-list/resources/js/front.js */"./resources/js/front.js");
-module.exports = __webpack_require__(/*! /Users/apple/Documents/mamp_public/php-laravel-odd-list/resources/sass/app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! /Users/apple/Documents/mamp_public/laravel-mail-auth/resources/js/front.js */"./resources/js/front.js");
+module.exports = __webpack_require__(/*! /Users/apple/Documents/mamp_public/laravel-mail-auth/resources/sass/app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

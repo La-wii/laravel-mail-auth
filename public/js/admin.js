@@ -104,7 +104,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/apple/Documents/mamp_public/php-laravel-odd-list/resources/js/admin.js */"./resources/js/admin.js");
+module.exports = __webpack_require__(/*! /Users/apple/Documents/mamp_public/laravel-mail-auth/resources/js/admin.js */"./resources/js/admin.js");
 
 
 /***/ })
