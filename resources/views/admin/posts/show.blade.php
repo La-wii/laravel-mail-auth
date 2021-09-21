@@ -12,7 +12,7 @@
                 <p class="card-text"> {{ $post->content }}</p>
             </div>
             <div class="card-body">
-            <img src="{{asset('storage/' .$post->cover) }}" class="card-img-top" style="width:300px; height:300px" alt="{{ $post->title }}">
+            <img src="{{asset('storage/' .$post->cover) }}" class="card-img-top" style="width:500px; height:300px" alt="{{ $post->title }}">
             </div>
         </div>
         <div class="mt-3">
